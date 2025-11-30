@@ -1,0 +1,5 @@
+{
+  "name": "KAMI Canvas AI",
+  "description": "An intelligent, collaborative strategic canvas tool powered by Gemini AI. It helps users structure their ideas using the K.A.M.I framework (Context, Analysis, Method, Impact) with real-time AI assistance for brainstorming and validation.",
+  "requestFramePermissions": []
+}
